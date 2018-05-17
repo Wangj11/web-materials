@@ -1,0 +1,34 @@
+p {
+  font-size: 30px;
+  font-style: italic;
+  background-color: green;
+}
+
+p:hover {
+  font-size: 48px;
+}
+
+.summary {
+  text-align: center;
+}
+
+.summary:hover {
+    border-style: dotted;
+}
+
+.sidebar {
+  position: relative;
+}
+
+h1:hover {
+  font-size: 32px;
+  color: blue;
+  font-family: "Lucida Console";
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h2:hover {
+  font-size: 40px;
+  color: red;
+  text-shadow: 2px 2px 4px #000000;
+}
